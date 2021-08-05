@@ -23,7 +23,7 @@
     "src/**/*.{js,json,scss}": "prettier --single-quote --trailing-comma all --tab-width 4 --write"
   },
   "husky": {
-    "hooks":{
+    "hooks": {
       "pre-commit": "lint-staged"
     }
   },
@@ -34,7 +34,7 @@
     "node-sass": "^6.0.1"
   },
   "devDependencies": {
-    "husky": "^7.0.0",
+    "husky": "^4.2.5",
     "lint-staged": "^11.1.1",
     "nodemon": "^2.0.12",
     "prettier": "^2.3.2"
