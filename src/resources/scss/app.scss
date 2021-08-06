@@ -1,1 +1,18 @@
 @import 'variable';
+.card-course-item {
+    margin-top: 16px;
+    a {
+        text-decoration: none;
+        color: black;
+    }
+    a:last-child {
+        color: white;
+    }
+}
+
+.user-avatar {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
