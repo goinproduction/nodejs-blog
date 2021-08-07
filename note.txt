@@ -1,0 +1,16 @@
+#MIDDLEWARE
+### Ý nghĩa
+- Là phần mềm trung gian
+
+
+### Vai trò 
+- Giống như chốt bảo vệ
+
+1. Soát vé -> validation
+2. Không cho vào
+3. Cho vào (validation pass)
+4. Chỉnh sửa/ thay đổi
+
+### Ứng dụng 
+- Authentication
+- Authorization
